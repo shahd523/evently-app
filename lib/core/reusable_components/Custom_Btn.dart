@@ -7,6 +7,7 @@ class CustomBtn extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return ElevatedButton(style: ElevatedButton.styleFrom(
+      padding: EdgeInsets.symmetric(horizontal: 16),
       backgroundColor: Theme.of(context).colorScheme.primary,
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(16)
