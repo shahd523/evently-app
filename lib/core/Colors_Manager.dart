@@ -9,5 +9,6 @@ import 'package:flutter/material.dart';
    static Color secondary_dark=Color(0xffF4EBDC);
   static Color backrround_dark=Color(0xff101127);
   static Color teretary_dark=Color(0xffFF5659);
+  static Color textfieldborder=Color(0xff7B7B7B);
 
 }

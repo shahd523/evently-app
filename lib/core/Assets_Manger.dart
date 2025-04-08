@@ -1,8 +1,39 @@
 abstract class AssetManager{
   static String logo="assets/images/start_logo.png";
   static String startimage="assets/images/start_image.png";
+  static String startimagedark="assets/images/start_image_dark.png";
   static String eg="assets/images/EG.svg";
   static  String us="assets/images/LR.svg";
   static  String sun="assets/images/Sun.svg";
   static  String moon="assets/images/Moon.svg";
+  static  String emailicon="assets/images/emailicon.svg";
+  static  String lockicon="assets/images/lockicon.svg";
+  static  String personicon="assets/images/personicon.svg";
+  static  String googleicon="assets/images/googleicon.svg";
+  static  String logologin="assets/images/Logo.png";
+  static  String forget="assets/images/change-setting.png";
+  static  String homeaicon="assets/images/homeuns.svg";
+  static  String homeaicons="assets/images/homeselected.svg";
+  static  String mapicon="assets/images/mapuns.svg";
+  static  String mapicons="assets/images/maps.svg";
+  static  String loveicon="assets/images/loveuns.svg";
+  static  String loveicons="assets/images/loves.svg";
+  static  String profileicon="assets/images/profileuns.svg";
+  static  String profileicons="assets/images/profiles.svg";
+  static  String sportstab="assets/images/sporttab.svg";
+  static  String alltab="assets/images/alltab.svg";
+  static  String caketab="assets/images/caketab.svg";
+  static  String eventphoto1="assets/images/Book Club.png";
+  static  String eventphoto2="assets/images/bookphoto.png";
+  static  String eventphoto3="assets/images/sportsphoto.png";
+  static  String searchicon="assets/images/searchbaricon.svg";
+  static  String bookicon="assets/images/bookicon.svg";
+  static  String titleicon="assets/images/titleicon.svg";
+  static  String on1light="assets/images/on1light.png";
+  static  String on2light="assets/images/on2light.png";
+  static  String on3light="assets/images/on3light.png";
+  static  String on1dark="assets/images/on1dark.png";
+  static  String on2dark="assets/images/on2dark.png";
+  static  String on3dark="assets/images/on3dark.png";
+
 }
